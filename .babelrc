@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/preset-env"]
+}
+//  转换到 es6  将来放入webpack
